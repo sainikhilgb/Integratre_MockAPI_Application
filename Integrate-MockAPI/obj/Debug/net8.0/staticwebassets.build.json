@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xtm7d9y00EnV3nACt6wVb7OvzgnYD7B3Mv3iIPBlEDE=",
+  "Source": "Integrate-MockAPI",
+  "BasePath": "_content/Integrate-MockAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

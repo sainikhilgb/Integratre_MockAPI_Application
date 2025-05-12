@@ -1,0 +1,28 @@
+# .vscode folder
+.vscode/
+
+# VS Code settings files
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# VS Code extensions folder (for extensions you have installed locally)
+.vscode/extensions/
+
+# VS Code workspace settings
+.vscode/*.code-workspace
+
+# Temporary files created by VS Code
+.vscode/*.log
+
+# Ignore all logs
+*.log
+
+# Ignore all build folders
+out/
+
+# Ignore Node.js modules (if any, for front-end development)
+node_modules/
+
+# Ignore any other IDE-specific files
+*.code-workspace

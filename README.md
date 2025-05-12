@@ -49,4 +49,10 @@ There, you can:
   the existing data by modifying the id manually.
 - Verify with POST: Before performing any PUT or DELETE operations, first create a new record using the POST request, then use the id from the response to verify the PUT and
   DELETE operations.
+# Validation and Error Handling
+- All input models are validated to ensure the required fields are provided and are valid.
+
+- If any errors occur during the API calls, appropriate error messages are returned with status codes (e.g., 400 for bad requests, 500 for internal server errors).
+
+- If any invalid data is returned from the mock API, it will be handled gracefully.
  
